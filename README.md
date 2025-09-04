@@ -10,9 +10,7 @@
 
 Systems powered by artificial intelligence (AI) are routinely used to make decisions that have profound consequences for humans. Unlike conventional tools, failures in AI can affect people’s lives in ways that are neither transparent nor predictable, and in certain cases, they can lead to serious or even harmful outcomes. In this context, auditing emerges as a vital tool for the building of trustworthy AI.
  
-This work addresses the urgent need for rigorous AI auditing frameworks by developing a theoretical and practical methodology grounded in hypothesis testing. 
-
-The notebooks on this repository are used to validate our framework proposal based on the Sequential Probability Ratio Test and demostrate its potential.
+This work addresses the urgent need for rigorous AI auditing frameworks by developing a theoretical and practical methodology grounded in hypothesis testing. The notebooks on this repository are used to validate our framework proposal based on the Sequential Probability Ratio Test and demostrate its potential.
 
 Firstly, we simulate a probabilistic black-box model to validate the SPRT audit under controlled conditions, comparing results to a Neyman-Pearson fixed-sample approach. 
 Secondly, a real-world audit is simulated using the German Credit dataset, training three classifiers, each of them under a different fairness-related approach, to later test them under our framework.
@@ -28,7 +26,7 @@ In order to download the files, navigate to your desired directory and execute t
 $ git clone https://github.com/manayaq/TFM_hypothesis_testing_AI_auditing
 ~~~
 
-Or just download the code as a `zip` file from **[enlace](https://github.com/manayaq/TFM_hypothesis_testing_AI_auditing/archive/refs/heads/main.zip)**.
+Or just download the code as a `zip` file **[here](https://github.com/manayaq/TFM_hypothesis_testing_AI_auditing/archive/refs/heads/main.zip)**.
 
 ****
 
