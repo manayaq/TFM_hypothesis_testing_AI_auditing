@@ -30,7 +30,7 @@ Or just download the code as a `zip` file **[here](https://github.com/manayaq/TF
 
 ****
 
-## :open_file_folder: Estructura del repositorio
+## :open_file_folder: Repository structure
 
 - 01_sprt_simulation.ipynb: This notebook contains experiments with a controlled black-box model that we designed using synthetic data. These experiments aim to evaluate the Sequential Probability Ratio Test (SPRT) under reproducible and well-defined conditions, demonstrating its potential as a rigorous auditing tool.
 
